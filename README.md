@@ -1,4 +1,4 @@
-# Inform-tica-
+[licenciamento_frota.xlsx](https://github.com/user-attachments/files/26805445/licenciamento_frota.xlsx)# Inform-tica-
 Atividades realizadas na disciplina de informática do CST e logística 
 ## apresentação em equipe utilizando software de desing gráfico 
 trabalho em equipe executado via PowerPoint: slides com fotos e animações 
@@ -11,3 +11,10 @@ trabalho em equipe executado via PowerPoint: slides com fotos e animações
 ### Aula de Excel: dados abertos, somase, cont.se, formatação de tabelas, filtrar valores e graficos.
 [despesa_funcao.xlsx](https://github.com/user-attachments/files/25957138/despesa_funcao.xlsx)
 <img width="1919" height="1068" alt="Captura de tela 2026-03-12 224003" src="https://github.com/user-attachments/assets/704618cb-9343-47e0-804b-477c410e6ea1" />
+
+#### Aula de Excel: dados abertos, exportar arquivo de multas pagas do estado de São Paulo, Somase, filtrar valores e gráficos.
+[multas_pagas.xlsx](https://github.com/user-attachments/files/26805386/multas_pagas.xlsx)
+<img width="671" height="427" alt="Captura de tela 2026-04-16 215243" src="https://github.com/user-attachments/assets/48edcb84-cdc5-4049-bf42-d7b10a457c9b" />
+
+##### Aula de Excel: dados abertos, retirar dados do estado de São Paulo, Elaboração de 5 perguntas sobre o tema de licenciamentos atrasados.
+[licenciamento_frota.xlsx](https://github.com/user-attachments/files/26805441/licenciamento_frota.xlsx)
