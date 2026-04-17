@@ -14,7 +14,7 @@ trabalho em equipe executado via PowerPoint: slides com fotos e animações
 
 #### Aula de Excel: dados abertos, exportar arquivo de multas pagas do estado de São Paulo, Somase, filtrar valores e gráficos.
 [multas_pagas.xlsx](https://github.com/user-attachments/files/26805386/multas_pagas.xlsx)
-<img width="671" height="427" alt="Captura de tela 2026-04-16 215243" src="https://github.com/user-attachments/assets/48edcb84-cdc5-4049-bf42-d7b10a457c9b" />
+<img width="1919" height="1079" alt="Captura de tela 2026-04-16 220032" src="https://github.com/user-attachments/assets/d9c08cdb-8d7e-442b-9a86-a15c909a78da" />
 
 ##### Aula de Excel: dados abertos, retirar dados do estado de São Paulo, Elaboração de 5 perguntas sobre o tema de licenciamentos atrasados.
 [licenciamento_frota.xlsx](https://github.com/user-attachments/files/26805441/licenciamento_frota.xlsx)
