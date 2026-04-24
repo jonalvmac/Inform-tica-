@@ -8,13 +8,19 @@ trabalho em equipe executado via PowerPoint: slides com fotos e animações
 [valores de arrecadação.xlsx](https://github.com/user-attachments/files/25806277/valores.de.arrecadacao.xlsx)
 <img width="1919" height="1074" alt="image" src="https://github.com/user-attachments/assets/41590eb5-e82a-4c16-9fd6-68cc3401d6bd" />
 
-### Aula de Excel: dados abertos, somase, cont.se, formatação de tabelas, filtrar valores e graficos.
+## Aula de Excel: dados abertos, somase, cont.se, formatação de tabelas, filtrar valores e graficos.
 [despesa_funcao.xlsx](https://github.com/user-attachments/files/25957138/despesa_funcao.xlsx)
 <img width="1919" height="1068" alt="Captura de tela 2026-03-12 224003" src="https://github.com/user-attachments/assets/704618cb-9343-47e0-804b-477c410e6ea1" />
 
-#### Aula de Excel: dados abertos, exportar arquivo de multas pagas do estado de São Paulo, Somase, filtrar valores e gráficos.
+## Aula de Excel: dados abertos, exportar arquivo de multas pagas do estado de São Paulo, Somase, filtrar valores e gráficos.
 [multas_pagas.xlsx](https://github.com/user-attachments/files/26805386/multas_pagas.xlsx)
 <img width="1919" height="1079" alt="Captura de tela 2026-04-16 220032" src="https://github.com/user-attachments/assets/d9c08cdb-8d7e-442b-9a86-a15c909a78da" />
 
-##### Aula de Excel: dados abertos, retirar dados do estado de São Paulo, Elaboração de 5 perguntas sobre o tema de licenciamentos atrasados.
+## Aula de Excel: dados abertos, retirar dados do estado de São Paulo, Elaboração de 5 perguntas sobre o tema de licenciamentos atrasados.
 [licenciamento_frota.xlsx](https://github.com/user-attachments/files/26805441/licenciamento_frota.xlsx)
+
+## Aula de Excel: introdução no power BI e personalização de dados e importação de imagem.
+https://centropaulasouza-my.sharepoint.com/:u:/g/personal/jonathan_machado_aluno_cps_sp_gov_br/IQDRDIbh9DwWQpmCe4MGrPl1AVjv9AXQRXhNskch_uaCWkk?e=bf66f8
+
+
+
