@@ -19,8 +19,10 @@ trabalho em equipe executado via PowerPoint: slides com fotos e animações
 ## Aula de Excel: dados abertos, retirar dados do estado de São Paulo, Elaboração de 5 perguntas sobre o tema de licenciamentos atrasados.
 [licenciamento_frota.xlsx](https://github.com/user-attachments/files/26805441/licenciamento_frota.xlsx)
 
-## Aula de Excel: introdução no power BI e personalização de dados e importação de imagem.
+## Aula de informatica: introdução no Power BI e personalização de dados e importação de imagem.
 https://centropaulasouza-my.sharepoint.com/:u:/g/personal/jonathan_machado_aluno_cps_sp_gov_br/IQDRDIbh9DwWQpmCe4MGrPl1AVjv9AXQRXhNskch_uaCWkk?e=bf66f8
 
+## Aula de informatica: continuação do power BI e criação de novas vizualizações
+https://centropaulasouza-my.sharepoint.com/:u:/r/personal/jonathan_machado_aluno_cps_sp_gov_br/Documents/Censo_demografico.pbix?csf=1&web=1&e=y8BPGM
 
 
