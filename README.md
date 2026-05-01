@@ -23,6 +23,6 @@ trabalho em equipe executado via PowerPoint: slides com fotos e animações
 https://centropaulasouza-my.sharepoint.com/:u:/g/personal/jonathan_machado_aluno_cps_sp_gov_br/IQDRDIbh9DwWQpmCe4MGrPl1AVjv9AXQRXhNskch_uaCWkk?e=bf66f8
 
 ## Aula de informatica: continuação do power BI e criação de novas vizualizações
-https://centropaulasouza-my.sharepoint.com/:u:/r/personal/jonathan_machado_aluno_cps_sp_gov_br/Documents/Censo_demografico.pbix?csf=1&web=1&e=y8BPGM
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/eb0a5c53-b958-475c-9d75-547afd368664" />
 
 
