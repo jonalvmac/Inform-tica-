@@ -25,4 +25,8 @@ https://centropaulasouza-my.sharepoint.com/:u:/g/personal/jonathan_machado_aluno
 ## Aula de informatica: continuação do power BI e criação de novas vizualizações
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/eb0a5c53-b958-475c-9d75-547afd368664" />
 
+## Aula de informatica: modelagem de dados, tratamento de dados, formulas DAX.
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/afa2d2a4-9f0e-428a-a059-9f9b8916f47d" />
+
+
 
