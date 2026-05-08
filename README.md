@@ -29,5 +29,12 @@ https://centropaulasouza-my.sharepoint.com/:u:/g/personal/jonathan_machado_aluno
 <img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/afa2d2a4-9f0e-428a-a059-9f9b8916f47d" />
 https://github.com/jonalvmac/Inform-tica-/blob/main/Admis_e_demis_SP.pbix
 
+## Aula de informatica: continuação da aula anterior e resposta das perguntas.
+A) Qual ano e mês o saldo de movimentação foi menor ?
+R: o menor foi mês de abril de 2020
+<img width="1919" height="1074" alt="image" src="https://github.com/user-attachments/assets/803e9554-e60d-4c8a-8d6d-9741937c37b3" />
+
+B) Qual o sexo possui o maior saldo de movimentação em cada ano ?
+R: 
 
 
