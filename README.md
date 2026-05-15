@@ -40,5 +40,9 @@ R:
 ##Aula sobre regressão linear;
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e13c98b6-2e54-4961-8a75-dfd6b83c3a87" />
 
+##Aula regressão linear simples;
+Qual a característica é mais determinante ?
+R: não tem como definir por regressão linear simples essa questão
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/653455bd-e52a-405a-9dc8-f2a9d7b8ae53" />
 
 
