@@ -45,4 +45,11 @@ Qual a característica é mais determinante ?
 R: não tem como definir por regressão linear simples essa questão
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/653455bd-e52a-405a-9dc8-f2a9d7b8ae53" />
 
+## Certificado de concluso do curso de python
+<img width="1139" height="782" alt="image" src="https://github.com/user-attachments/assets/45319efd-9f27-424e-9b0a-0bfe0b2d8a16" />
+
+## Certificado de concluido do curso Introdução à análise de dados da Microsoft
+<img width="1135" height="820" alt="image" src="https://github.com/user-attachments/assets/c2747d30-d683-4738-b7bf-b8cbb47c3c2c" />
+
+
 
