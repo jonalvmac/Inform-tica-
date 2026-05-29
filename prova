@@ -1,0 +1,11 @@
+a) Elabore duas tabelas de acordo com figura ao lado.
+
+ b) Acesse o link:   https://repositorio.seade.gov.br/dataset/seade-nupcialidade
+e faça o download de arquivos referentes à Nupcialidade
+
+c) Construa um relatório (dashboard) que contenha, no mínimo, três visualizações diferentes, sendo:
+- mapa geográfico mostrando onde há a maior taxa de nupcialidade
+- visualização relacionando a região administrativa com  a maior taxa de nupcialidade por sexo
+- visualização de sua livre escolha 
+
+Importante: O usuário poderá fazer a segmentação de informações por ano ou região administrativa  que deseja ver. Colocar título no dashboard
